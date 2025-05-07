@@ -7,6 +7,11 @@
 🚀 **Building interactive and performant web experiences** with modern tech stacks.  
 🎨 **Passionate about design systems, animations, and clean code.**
 
+📫 **My contacts:**  
+- Email: elvira0108@ya.ru 
+- Telegram: @elvsay
+
+
 ## 🛠️ Tech Stack
 
 ### Core Technologies
