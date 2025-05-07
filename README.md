@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;React+%7C+TypeScript+%7C+UI%2FUX" alt="Typing Animation" />
 </p>
 
@@ -51,8 +51,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Talk+is+cheap.+Show+me+the+code." alt="Typing Animation" />
 </p>
-
-
-
-
-
