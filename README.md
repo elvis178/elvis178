@@ -7,6 +7,8 @@
 🚀 **Building interactive and performant web experiences** with modern tech stacks.  
 🎨 **Passionate about design systems, animations, and clean code.**
 
+🔍 **Explore my projects**: [View Repositories](https://github.com/elvis178?tab=repositories)
+
 📫 **My contacts:**  
 - Email: elvira0108@ya.ru 
 - Telegram: @elvsay
